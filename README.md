@@ -5,7 +5,7 @@ Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es)
 
 <br>
 
-### 🛠️ Tecnologías y herramientas que uso:
+<h2 align="left">🛠️ Tecnologías y herramientas que uso:</h2>
 <p float="left">
 <img src="images/php.png" width="50">
 <img src="images/mysql.png" width="50">
@@ -19,7 +19,7 @@ Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es)
 
 <br>
 
-#### 👨🏻‍💻 Sobre mi:
+<h2 align="left">👨🏻‍💻 Sobre mi:</h2>
 💻 Actualmente estoy trabajando en mejorar el e-commerce en [Denox](https://denox.es)<br>
 ⏳ Explorando nuevas arquitecturas de Software<br>
 🚀 Listo para colaborar y apoyar<br>
