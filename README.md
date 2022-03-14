@@ -20,9 +20,9 @@ Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es)
 <br>
 
 <h2 align="left">👨🏻‍💻 Sobre mi:</h2>
-💻 Actualmente estoy trabajando en mejorar el e-commerce en [Denox](https://denox.es)<br>
-⏳ Explorando nuevas arquitecturas de Software<br>
-🚀 Listo para colaborar y apoyar<br>
-👨‍💻 Mi hobby es crear script de automatización<br>
-🎯 Disfruto realizando proyectos que salen fuera de mi zona de confort tanto en diseño como electrónica<br>
+💻 Actualmente estoy trabajando en mejorar el e-commerce en [Denox](https://denox.es). <br>
+⏳ Explorando nuevas arquitecturas de Software <br>
+🚀 Listo para colaborar y apoyar <br>
+👨‍💻 Mi hobby es crear script de automatización <br>
+🎯 Disfruto realizando proyectos que salen fuera de mi zona de confort tanto en diseño como electrónica <br>
 ⚡ Frase que me define: "Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí."
