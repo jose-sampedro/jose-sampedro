@@ -1,16 +1,26 @@
-### Hi there 👋
+# ¡Hola <img src="images/hi.gif" width="30px"> encantad@ de conocerte!
+Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es).
 
-<!--
-**jose-sampedro/jose-sampedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/developer.gif" width="500px">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas que uso:
+<img src="images/php.png" width="50">
+<img src="images/mysql.png" width="50">
+<img src="images/docker.png" width="50">
+<img src="images/python.png" width="50">
+<img src="images/bash.png" width="50">
+<img src="images/html.png" width="50">
+<img src="images/css.png" width="50">
+<img src="images/javascript.png" width="50">
+
+<br>
+
+#### 👨🏻‍💻 Sobre mi:
+💻 Actualmente estoy trabajando en mejorar el e-commerce en [Denox](https://denox.es)<br>
+⏳ Explorando nuevas arquitecturas de Software<br>
+🚀 Listo para colaborar y apoyar<br>
+👨‍💻 Mi hobby es crear script de automatización<br>
+🎯 Disfruto realizando proyectos que salen fuera de mi zona de confort tanto en diseño como electrónica<br>
+⚡ Frase que me define: "Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí."
