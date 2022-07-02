@@ -1,4 +1,4 @@
-# ¡Hola <img src src="images/hi.gif" width="30px" height="30px"/> encantad@ de conocerte!
+# ¡Hola <img src="images/hi.gif" width="30px" height="30px"/> encantad@ de conocerte!
 Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es).
 
 <img src="images/developer.gif" width="500px">
