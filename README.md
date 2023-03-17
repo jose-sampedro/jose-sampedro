@@ -1,5 +1,9 @@
 # ¡Hola <img src="images/hi.gif" width="30px" height="30px"/> encantad@ de conocerte!
-Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es).
+👨🏻‍💻 Programador retirado despues de 15 años. Ahora solo programo como hobby. 
+
+📍 Lugar donde subir mis scripts y proyectos personales.
+
+🏢 Funcionario de la Junta de Andalucía.
 
 <img src="images/developer.gif" width="500px">
 
@@ -20,7 +24,6 @@ Soy Jose María Sampedro y soy Full Stack Developer en [Denox](https://denox.es)
 <br>
 
 <h2 align="left">👨🏻‍💻 Sobre mi:</h2>
-💻 Actualmente estoy trabajando en mejorar el e-commerce en Denox <br>
 ⏳ Explorando nuevas arquitecturas de Software <br>
 🚀 Listo para colaborar y apoyar <br>
 👨‍💻 Mi hobby es crear script de automatización <br>
