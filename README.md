@@ -3,8 +3,6 @@
 
 📍 Lugar donde subir mis scripts y proyectos personales.
 
-🏢 Funcionario de la Junta de Andalucía.
-
 <img src="images/developer.gif" width="500px">
 
 <br>
